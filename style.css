@@ -1,0 +1,56 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/abstract-black-white-bokeh-background_1962-1324.jpg?size=626&ext=jpg");
+    background-size: cover;
+}
+
+
+.navbar-brand{
+    color: rgb(37, 36, 36);
+}
+
+
+.container{
+    color: white;
+    margin-left: 70px;
+    margin-top: 50px;
+    height: 80%;
+    width: 75%;
+}
+
+
+h1{
+    border-bottom:1px solid white; width:96%;
+}
+
+
+.img src{
+    height: 157px;
+    width: 157px;
+}
+
+
+.row{
+    
+    background-color: rgb(66, 66, 66);
+    
+}
+
+
+h1{
+    margin-left: 20px;
+    color: rgb(55, 182, 182) ;
+}
+
+
+.col-lg-6{
+    background-color: rgb(66, 66, 66);
+    
+}
+
+
+
+/* .card_body{
+    padding-top: 0;
+}
+ */
+
