@@ -47,6 +47,18 @@ h1{
     
 }
 
+label{
+    margin-left: 20px;
+}
+
+input[type=submit]{
+
+    color: rgb(63, 63, 63);
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color: rgb(55, 182, 182);
+    padding: 5px 3px;
+}
 
 
 /* .card_body{
