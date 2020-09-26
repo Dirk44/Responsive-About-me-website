@@ -55,11 +55,13 @@ input[type=submit]{
 
     color: rgb(63, 63, 63);
     border-radius: 10px;
+    margin-bottom: 7px;
     border: 2px solid white;
     background-color: rgb(55, 182, 182);
     padding: 5px 3px;
 }
 
+.li[style-none]
 
 /* .card_body{
     padding-top: 0;
